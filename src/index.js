@@ -1,3 +1,5 @@
 const one = require("./One");
+const two = require("./Two");
 
-one.exec()
+one.exec();
+two.exec();
