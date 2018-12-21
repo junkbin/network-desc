@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "arp-a": "^0.5.2",
+    "libnmap": "^0.4.16",
     "local-devices": "^1.1.1"
   }
 }
